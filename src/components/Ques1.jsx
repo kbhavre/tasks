@@ -8,7 +8,7 @@ const Ques1 = () => {
   return (
     <div className=' bg-red-200 '>
       <h1 className='text-4xl px-4 py-2 text-center'>Question 1 : Counter App</h1>
-        <div className='flex flex-col items-center my-5'> 
+        <div className='flex flex-col items-center'> 
             <h1 className='text-2xl'>{count}</h1>
 
             <div className='flex gap-3 my-4'>
